@@ -1,6 +1,6 @@
 # Array Filtering without Filter Method
 
-LeetCode problem: Array Filter Transformation
+[LeetCode problem: Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/)
 
 ## Problem Description
 
